@@ -47,8 +47,8 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  category: /categories/
-  tag: /tags/
+  Categories: /categories/
+  Tags: /tags/
   search: /search/
 
 # 在首页显示的，用于连接到你社交媒体的链接.
