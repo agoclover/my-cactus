@@ -63,7 +63,7 @@ social_links:
   #zhihu: https://www.zhihu.com/people/agoclover
   #weibo: https://weibo.com/u/6475221640
   #linkedin: https://www.linkedin.com/in/amos-zhang-193013b0/
-  mail: mailto:amos.pvt@gmail.com
+  mail: mailto:hi@zhangchao.top
 
 # 是否在首页显示标签云,标签云将会在文章列表的上面显示.
 # 详细: https://hexo.io/docs/helpers.html#tagcloud
@@ -154,9 +154,9 @@ valine:
 # 用于显示备案信息的选项
 # 格式 icp: 京ICP备12345678号
 icp: 
-  enabled: false
+  enabled: true
   url: http://www.beian.miit.gov.cn/
-  text: 湘ICP备17005082号
+  text: 晋ICP备20004630号
 
 # 是否在网站底部展示 CDN 厂商的信息
 # - image:厂商LOGO 选项不为空时 默认优先图片信息
@@ -164,6 +164,6 @@ icp:
 # - site: 厂商地址
 cdn:
   enabled: true
-  text: Tencent Cloud
+  text: 腾讯云
   # image: /images/?.png
   site: https://cloud.tencent.com/
